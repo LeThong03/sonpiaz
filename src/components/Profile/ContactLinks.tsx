@@ -1,6 +1,5 @@
 // src/components/Profile/ContactLinks.tsx
 import React from 'react';
-import { Linkedin } from 'lucide-react';
 
 const ContactLinks = () => {
     return (
