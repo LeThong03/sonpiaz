@@ -7,7 +7,7 @@ const GetInTouchSection = () => {
       <h2 className="text-2xl font-bold mb-4">Get in touch</h2>
       <p className="text-gray-500 mb-6">
         You can <a href="#" className="text-blue-600 hover:underline">email me</a> directly 
-        or reach out on LinkedIn, I'd love to hear from you!
+        or reach out on LinkedIn, I&apos;d love to hear from you!
       </p>
       
       <div className="space-y-3">
